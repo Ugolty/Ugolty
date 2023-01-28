@@ -11,8 +11,9 @@
 
 <h1 align="center">My Stats</h1>
 
-<p  align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ugolty&show_icons=true&theme=dark&locale=en&layout=compact" alt="ugolty" /></p>
-
-<p  align="center"><img src="https://github-readme-stats.vercel.app/api?username=ugolty&show_icons=true&theme=dark&locale=en" alt="ugolty" /></p>
+<p  align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ugolty&show_icons=true&theme=dark&locale=en&layout=compact" alt="ugolty" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ugolty&show_icons=true&theme=dark&locale=en" alt="ugolty" />
+</p>
 
 <p  align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ugolty&theme=dark" alt="ugolty" /></p>
