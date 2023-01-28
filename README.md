@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Les Stats GitHub de Ugolty](https://github-readme-stats.vercel.app/api?username=Ugolty)](https://github.com/Ugolty/github-readme-stats)
-![Les Stats GitHub de Ugolty](https://github-readme-stats.vercel.app/api?username=Ugolty&count_private=true)
-![Les Stats GitHub de Ugolty](https://github-readme-stats.vercel.app/api?username=Ugolty&show_icons=true)
-![Ugolty's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![Les Stats GitHub de Ugolty](https://github-readme-stats.vercel.app/api?username=Ugolty&theme=dark&show_icons=true&count_private=true)](https://github.com/Ugolty/github-readme-stats)
