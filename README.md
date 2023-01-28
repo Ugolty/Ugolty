@@ -10,7 +10,7 @@
 
 <h1 align="center">My Stats</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugolty&show_icons=true&theme=dark&locale=en&layout=compact" alt="ugolty" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugolty&show_icons=true&theme=dark&locale=en&layout=compact" alt="ugolty" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ugolty&show_icons=true&theme=dark&locale=en" alt="ugolty" /></p>
 
