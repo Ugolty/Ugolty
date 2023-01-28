@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Les Stats GitHub de Ugolty](https://github-readme-stats.vercel.app/api?username=Ugolty)](https://github.com/Ugolty/github-readme-stats)
-(https://github-readme-stats.vercel.app/api?username=Ugolty&count_private=true)
+![Les Stats GitHub de Ugolty](https://github-readme-stats.vercel.app/api?username=Ugolty&count_private=true)
+![Les Stats GitHub de Ugolty](https://github-readme-stats.vercel.app/api?username=Ugolty&show_icons=true)
+![Ugolty's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
