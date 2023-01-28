@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ugo Latry</h1>
 <h3 align="center">a French student in computer science. I am currently studying in Pau at CY-Tech.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
